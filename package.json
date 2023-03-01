@@ -1,0 +1,24 @@
+{
+  "name": "01.vanilla-js-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/chuheeseung/vanilla-js-spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuheeseung/vanilla-js-spa/issues"
+  },
+  "homepage": "https://github.com/chuheeseung/vanilla-js-spa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
